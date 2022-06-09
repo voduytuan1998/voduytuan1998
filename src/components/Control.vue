@@ -12,7 +12,7 @@
 export default({
     data() {
         return{
-
+                111111111
         }
         
     },methods:{
